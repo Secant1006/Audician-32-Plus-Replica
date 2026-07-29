@@ -1,0 +1,6 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "YMF719")(type "KiCad")(uri "${KIPRJMOD}/YMF719.kicad_sym")(options "")(descr ""))
+  (lib (name "TDA1517/N3")(type "KiCad")(uri "${KIPRJMOD}/TDA1517_N3.kicad_sym")(options "")(descr ""))
+  (lib (name "TEA2025B")(type "KiCad")(uri "${KIPRJMOD}/TEA2025B.kicad_sym")(options "")(descr ""))
+)
