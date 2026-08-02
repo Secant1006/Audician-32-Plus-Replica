@@ -12853,7 +12853,7 @@
 				)
 			)
 		)
-		(property "Value" "2.7kΩ"
+		(property "Value" "27kΩ"
 			(at 0 1.65 90)
 			(layer "F.Fab")
 			(uuid "388da234-20f1-4e91-847f-456b2042dfd8")
@@ -12888,7 +12888,7 @@
 				)
 			)
 		)
-		(property "LCSC" "C17530"
+		(property "LCSC" "C17593"
 			(at 0 0 0)
 			(layer "F.SilkS")
 			(hide yes)
@@ -25798,7 +25798,7 @@
 				)
 			)
 		)
-		(property "Value" "2.7kΩ"
+		(property "Value" "27kΩ"
 			(at 0 1.65 90)
 			(layer "F.Fab")
 			(uuid "3b2549e3-846b-43f7-ada0-c03eb51cc882")
@@ -25833,7 +25833,7 @@
 				)
 			)
 		)
-		(property "LCSC" "C17530"
+		(property "LCSC" "C17593"
 			(at 0 0 0)
 			(layer "F.SilkS")
 			(hide yes)
@@ -46805,7 +46805,7 @@
 				)
 			)
 		)
-		(property "Value" "2.7kΩ"
+		(property "Value" "27kΩ"
 			(at 0 1.65 90)
 			(layer "F.Fab")
 			(uuid "40765a49-db51-42e9-b40b-2029e47a79ed")
@@ -46840,7 +46840,7 @@
 				)
 			)
 		)
-		(property "LCSC" "C17530"
+		(property "LCSC" "C17593"
 			(at 0 0 0)
 			(layer "F.SilkS")
 			(hide yes)
@@ -52964,7 +52964,7 @@
 				)
 			)
 		)
-		(property "Value" "2.7kΩ"
+		(property "Value" "27kΩ"
 			(at 0 1.65 90)
 			(layer "F.Fab")
 			(uuid "585fbe0f-4301-4d82-978b-0f3adcbc3987")
@@ -52999,7 +52999,7 @@
 				)
 			)
 		)
-		(property "LCSC" "C17530"
+		(property "LCSC" "C17593"
 			(at 0 0 0)
 			(layer "F.SilkS")
 			(hide yes)

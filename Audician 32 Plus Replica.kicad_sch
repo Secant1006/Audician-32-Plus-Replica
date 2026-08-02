@@ -5787,13 +5787,14 @@
 		)
 		(uuid "4d9fc794-4614-417c-80ae-89025d94e85e")
 	)
-	(text "3rd Overtone"
+	(text "3rd Overtone\nReplace R29 with 1MΩ if using fundamental crystal"
 		(exclude_from_sim no)
-		(at 49.022 112.522 0)
+		(at 49.022 114.554 0)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
+			(justify left)
 		)
 		(uuid "8bef2f8a-58af-49ba-93e7-7e6f7308525f")
 	)
@@ -16536,7 +16537,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C112487"
+		(property "LCSC" "C2826426"
 			(at 35.56 34.29 0)
 			(effects
 				(font
