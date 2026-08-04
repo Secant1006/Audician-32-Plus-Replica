@@ -3014,20 +3014,18 @@
 					(hide yes)
 				)
 			)
-			(symbol "MK1420S_0_1"
+			(symbol "MK1420S_1_1"
 				(rectangle
 					(start -8.89 8.89)
 					(end 8.89 -8.89)
 					(stroke
-						(width 0)
-						(type default)
+						(width 0.254)
+						(type solid)
 					)
 					(fill
-						(type none)
+						(type background)
 					)
 				)
-			)
-			(symbol "MK1420S_1_1"
 				(pin input line
 					(at -11.43 3.81 0)
 					(length 2.54)
@@ -3222,20 +3220,18 @@
 					(hide yes)
 				)
 			)
-			(symbol "YM719_0_1"
+			(symbol "YM719_1_1"
 				(rectangle
 					(start -17.78 74.93)
 					(end 17.78 -74.93)
 					(stroke
-						(width 0)
-						(type default)
+						(width 0.254)
+						(type solid)
 					)
 					(fill
-						(type none)
+						(type background)
 					)
 				)
-			)
-			(symbol "YM719_1_1"
 				(pin bidirectional line
 					(at -20.32 66.04 0)
 					(length 2.54)
@@ -5808,6 +5804,17 @@
 			(justify left)
 		)
 		(uuid "d3da4371-3a35-4ba1-ac1b-209da65c0602")
+	)
+	(text "RA2 is populated only when 24MHz crystal is omitted\n(Not Recommended)"
+		(exclude_from_sim no)
+		(at 63.5 160.274 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "e95ef555-10f1-430e-870a-2e45ee24de41")
 	)
 	(junction
 		(at 27.94 121.92)

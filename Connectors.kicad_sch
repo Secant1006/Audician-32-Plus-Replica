@@ -3746,20 +3746,18 @@
 					(hide yes)
 				)
 			)
-			(symbol "Mysterious_0_1"
+			(symbol "Mysterious_1_1"
 				(rectangle
 					(start -6.35 8.89)
 					(end 6.35 -8.89)
 					(stroke
-						(width 0)
-						(type default)
+						(width 0.254)
+						(type solid)
 					)
 					(fill
-						(type none)
+						(type background)
 					)
 				)
-			)
-			(symbol "Mysterious_1_1"
 				(pin input line
 					(at -8.89 2.54 0)
 					(length 2.54)
