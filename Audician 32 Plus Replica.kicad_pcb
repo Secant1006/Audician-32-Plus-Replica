@@ -14872,7 +14872,7 @@
 				)
 			)
 		)
-		(property "Value" "22pF"
+		(property "Value" "4pF"
 			(at 0 1.68 90)
 			(layer "F.Fab")
 			(uuid "cff4a50c-34c6-4b67-b048-25710c789b4d")
@@ -14907,7 +14907,7 @@
 				)
 			)
 		)
-		(property "LCSC" "C1804"
+		(property "LCSC" "C1819"
 			(at 0 0 0)
 			(layer "F.SilkS")
 			(hide yes)
@@ -16824,7 +16824,7 @@
 				)
 			)
 		)
-		(property "LCSC" "C17514"
+		(property "LCSC" "C17614"
 			(at 0 0 0)
 			(layer "F.SilkS")
 			(hide yes)
@@ -38028,7 +38028,7 @@
 				)
 			)
 		)
-		(property "Value" "22pF"
+		(property "Value" "4pF"
 			(at 0 1.68 90)
 			(layer "F.Fab")
 			(uuid "0014ad62-3a42-4221-b151-a7b123e710a1")
@@ -38063,7 +38063,7 @@
 				)
 			)
 		)
-		(property "LCSC" "C1804"
+		(property "LCSC" "C1819"
 			(at 0 0 0)
 			(layer "F.SilkS")
 			(hide yes)

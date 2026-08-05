@@ -5783,7 +5783,7 @@
 		)
 		(uuid "4d9fc794-4614-417c-80ae-89025d94e85e")
 	)
-	(text "3rd Overtone\nReplace R29 with 1MΩ if using fundamental crystal"
+	(text "3rd Overtone"
 		(exclude_from_sim no)
 		(at 49.022 114.554 0)
 		(effects
@@ -11755,7 +11755,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C17514"
+		(property "LCSC" "C17614"
 			(at 36.83 115.57 0)
 			(effects
 				(font
@@ -14578,7 +14578,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "22pF"
+		(property "Value" "4pF"
 			(at 48.768 127 0)
 			(effects
 				(font
@@ -14614,7 +14614,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C1804"
+		(property "LCSC" "C1819"
 			(at 45.72 125.73 0)
 			(effects
 				(font
@@ -16270,7 +16270,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "22pF"
+		(property "Value" "4pF"
 			(at 20.32 127 0)
 			(effects
 				(font
@@ -16306,7 +16306,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C1804"
+		(property "LCSC" "C1819"
 			(at 27.94 125.73 0)
 			(effects
 				(font
