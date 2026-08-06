@@ -13,7 +13,7 @@ As of August 2026, no one has published any schematic for this chip yet. This pr
 
 One configuration of the board is manufactured and validated to work perfectly fine.
 
-![PCB Rendering](./Audician 32 Plus Replica.png "PCB Rendering")
+![PCB Rendering](<Audician 32 Plus Replica.png>)
 
 # Project Structure
 
@@ -81,11 +81,11 @@ One configuration of the board is manufactured and validated to work perfectly f
 
 Notes:
 
-1. [Low-Pass Filter Mod](https://www.vogons.org/viewtopic.php?p=527947#p527947): This is a mod for this card to make Sound Blaster effects sound more like a real Sound Blaster Pro 2.0. If you want to perform this mod, replace the two SBFLT caps with 6.8nF (LCSC Part Number C1755). For YMF711/718, the SBFLT caps are C12 and C20. For YMF715/719/741, the SBFLT caps are C11 and C19.
+1. [Low-Pass Filter Mod](https://www.vogons.org/viewtopic.php?p=527947#p527947): This is a mod for this card to make Sound Blaster effects sound more like a real Sound Blaster Pro 2.0. If you want to perform this mod, replace the two SBFLT caps with 6.8nF (LCSC part number C1755). For YMF711/718, the SBFLT caps are C12 and C20. For YMF715/719/741, the SBFLT caps are C11 and C19.
 1. C38, C39, R29, X2: If using a 3rd overtone crystal, which most probably is for 33.8688MHz in HC-49U package, then go with the values above. If using a fundamental crystal, then replace C38, C39 and R29 according to the crystal's datasheet. If the card doesn't work correctly then I suggest measuring the crystal output with an oscilloscope.
 1. RP1, SJ5, U9, U10, CN1: If you want to use the CD-ROM interface on the sound card, do **NOT** install RP1, install a 10kΩ resistor in SJ5's 1-2 position and a 0Ω in 3-4. Otherwise, install RP1, a 10kΩ resistor in SJ5's **1-3** position and a 0Ω in **2-4**, and do not install U10 and CN1. Then flash the EEPROM (U9) with a programmer. EEPROM images are in the `eeprom/` folder.
 1. SJ3, SJ4: Install two 0Ω resistors in 2-3 position.
-1. U6: This card support YMF711 (OPL3-SA2), YMF718 (OPL3-SA2C), YMF715 (OPL3-SA3), YMF719 (OPL3-SA3C) and YMF741 (OPL3-SA3L) in LQFP-100 package. Note that YMF715**F**-S may not work correctly according to some report.
+1. U6: This card supports YMF711 (OPL3-SA2), YMF718 (OPL3-SA2C), YMF715 (OPL3-SA3), YMF719 (OPL3-SA3C) and YMF741 (OPL3-SA3L) in LQFP-100 package. Note that YMF715**F**-S may not work correctly according to some report.
 
 The BOM for the onboard QS1000 wavetable is not listed. Some components, like U7 and some capacitors / resistors, are not present on any variant of this card. I have no idea on what values they are.
 
