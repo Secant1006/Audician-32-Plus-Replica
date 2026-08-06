@@ -9571,7 +9571,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "footprints:Jack_3.5mm_PJ-306_Horizontal"
+		(property "Footprint" "footprints:Jack_3.5mm_PJ-317_Horizontal"
 			(at 171.45 54.61 0)
 			(effects
 				(font
@@ -9598,7 +9598,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C692443"
+		(property "LCSC" "C381121"
 			(at 171.45 54.61 0)
 			(effects
 				(font
@@ -10441,7 +10441,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "footprints:Jack_3.5mm_PJ-306_Horizontal"
+		(property "Footprint" "footprints:Jack_3.5mm_PJ-317_Horizontal"
 			(at 171.45 146.05 0)
 			(effects
 				(font
@@ -10468,7 +10468,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C692443"
+		(property "LCSC" "C381121"
 			(at 171.45 146.05 0)
 			(effects
 				(font
@@ -14117,7 +14117,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "footprints:Jack_3.5mm_PJ-306_Horizontal"
+		(property "Footprint" "footprints:Jack_3.5mm_PJ-317_Horizontal"
 			(at 261.62 53.34 0)
 			(effects
 				(font
@@ -14144,7 +14144,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C692443"
+		(property "LCSC" "C381121"
 			(at 261.62 53.34 0)
 			(effects
 				(font

@@ -14578,7 +14578,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "4pF"
+		(property "Value" "4.7pF"
 			(at 48.768 127 0)
 			(effects
 				(font
@@ -14614,7 +14614,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C1819"
+		(property "LCSC" "C1820"
 			(at 45.72 125.73 0)
 			(effects
 				(font
@@ -16270,8 +16270,8 @@
 				(justify left)
 			)
 		)
-		(property "Value" "4pF"
-			(at 20.32 127 0)
+		(property "Value" "4.7pF"
+			(at 19.812 127 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16306,7 +16306,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C1819"
+		(property "LCSC" "C1820"
 			(at 27.94 125.73 0)
 			(effects
 				(font
